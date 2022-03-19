@@ -1,6 +1,5 @@
 {
   "name": "Todo List",
-  
   "short_name": "Todo List",
   "background_color": "#fafafa",
   "display": "standalone",
